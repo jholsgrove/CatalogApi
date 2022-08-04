@@ -1,5 +1,5 @@
 /.vscode
-/Catalog/bin
-/Catalog/obj
-/Catalog/appsettings.Development.json
-/Catalog/Properties
+/bin
+/obj
+/appsettings.Development.json
+/Properties
